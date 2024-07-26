@@ -1,0 +1,26 @@
+{
+    "header": {
+      "description": "This NGO is dedicated to efficiently allocating resources for rebuilding schools and communities post-disaster. We prioritize critical needs, directing supplies and funds where they are most needed to restore essential infrastructure."
+    },
+    "statistics": {
+      "helped": {
+        "title": "We have helped",
+        "count": "50,00",
+        "description": "people so far with your efforts"
+      },
+      "volunteers": {
+        "title": "20,00+ Volunteers"
+      },
+      "funds": {
+        "title": "We have raised funds worth",
+        "amount": "Rs.10 Lakh",
+        "description": "so far with your donations"
+      }
+    },
+    "about": {
+      "title": "About Us",
+      "content1": "The study to develop a practical and accessible solution for consumers to detect artificially ripened fruits. Using image processing techniques on smartphone-captured photographs of the fruits, the suggested method discovered the features that distinguish artificially ripened fruits from naturally ripened fruits. This was accomplished with a high accuracy rate of 91%, demonstrating the effectiveness of the method in identifying the presence of calcium carbide in mangoes. The utilization of Tesseract OCR library to recognize numbers on food labels and packaging. This method is a low-cost and efficient way to ensure precise and reliable product identification in the food business. These studies provide significant insights and approaches that can help to improve food safety and consumer protection solutions.",
+      "content2": "This method is a low-cost and efficient way to ensure precise and reliable product identification in the food business."
+    }
+  }
+  

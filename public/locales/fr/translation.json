@@ -1,0 +1,27 @@
+{
+    "header": {
+      "description": "Cette ONG se consacre à l'allocation efficace des ressources pour reconstruire les écoles et les communautés après une catastrophe. Nous priorisons les besoins critiques, dirigeant les fournitures et les fonds là où ils sont le plus nécessaires pour restaurer les infrastructures essentielles."
+    },
+    "statistics": {
+      "helped": {
+        "title": "Nous avons aidé",
+        "count": "50,00",
+        "description": "personnes jusqu'à présent grâce à vos efforts"
+      },
+      "volunteers": {
+        "title": "20,00+ Volontaires"
+      },
+      "funds": {
+        "title": "Nous avons recueilli des fonds d'une valeur de",
+        "amount": "Rs.10 Lakh",
+        "description": "jusqu'à présent grâce à vos dons"
+      }
+    },
+    "about": {
+      "title": "À propos de nous",
+      "content1": "L'étude pour développer une solution pratique et accessible pour les consommateurs afin de détecter les fruits mûris artificiellement. En utilisant des techniques de traitement d'image sur des photographies de fruits capturées par smartphone, la méthode suggérée a découvert les caractéristiques qui distinguent les fruits mûris artificiellement des fruits mûris naturellement. Cela a été accompli avec un taux de précision élevé de 91%, démontrant l'efficacité de la méthode dans l'identification de la présence de carbure de calcium dans les mangues. L'utilisation de la bibliothèque OCR Tesseract pour reconnaître les numéros sur les étiquettes et les emballages alimentaires. Cette méthode est un moyen économique et efficace d'assurer une identification précise et fiable des produits dans le secteur alimentaire. Ces études fournissent des informations et des approches significatives qui peuvent aider à améliorer les solutions de sécurité alimentaire et de protection des consommateurs.",
+      "content2": "Cette méthode est un moyen économique et efficace d'assurer une identification précise et fiable des produits dans le secteur alimentaire."
+    }
+  }
+  
+  
